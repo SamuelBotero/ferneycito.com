@@ -1,0 +1,4 @@
+#!/bin/bash/bash
+mkdir prueba
+cd prueba
+echo "Prueba exitosa!" > texto
